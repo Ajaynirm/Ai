@@ -1,0 +1,26 @@
+a{
+    color: rgb(212, 34, 171);
+    text-decoration: none;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+}
+.button{
+    padding: 10px 10px;
+    border: 10px;
+    border-color: rgb(52, 234, 15);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button-container{
+    display: flex;
+    align-content: center;
+
+
+}
+p{
+    padding: 10px 100px 10px 0px ;
+    margin: 10px 50px 30px 5px;
+
+
+}
